@@ -40,9 +40,3 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=llopfilms&show_icons=true&locale=en&layout=compact" alt="llopfilms" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=llopfilms&show_icons=true&locale=en" alt="llopfilms" /></p>
-
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=llopfilms&" alt="llopfilms" /></p>
-
