@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, I'm Jordi Llop (llopFilms)</h1>
-<h3 align="center">A passionate frontend developer from Barcelona</h3>
+<h1 align="center">Hi 👋, I'm Jordi Llop (:yum:llopFilms)</h1>
+<h3 align="center">A passionate frontend developer from Barcelona area</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=llopfilms&label=Profile%20views&color=0e75b6&style=flat" alt="llopfilms" /> </p>
 
-- 🌱 I’m currently learning **--> React, Javascript, Typescript**
+- 🌱 I’m currently learning **&nbsp;:heavy_minus_sign:&nbsp; React, Javascript, Typescript**
 
-- 👯 I’m looking to collaborate on **--> React projects & anything cool for a Junior**
+- 👯 I’m looking to collaborate on **&nbsp;:heavy_minus_sign:&nbsp; React || Javascript projects && anything cool for a Junior**
 
-- 📫 How to reach me **--> smdalbars@gmail.com**
+- 📫 How to reach me **&nbsp;:heavy_minus_sign:&nbsp; smdalbars@gmail.com**
 
-- 📄 Know about my experiences **--> 22 years background as a freelancer**
+- 📄 Know about my experiences **&nbsp;:heavy_minus_sign:&nbsp; 22 years freelance background**
 
-- ⚡ Fun fact **--> I'm ready for challenges!!**
+- ⚡ Fun fact **&nbsp;:heavy_minus_sign:&nbsp; I'm ready for the challenge!!**
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
