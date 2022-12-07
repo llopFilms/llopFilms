@@ -11,6 +11,10 @@
 
 - 📄 Know about my experiences **&nbsp;:heavy_minus_sign:&nbsp; 22 years freelance background**
 
+- :heavy_check_mark: Skills I higlight **&nbsp;:heavy_minus_sign:&nbsp; detail-oriented, reliable, hard & team-worker, keen to learn**
+
+- :point_up: Interested in work **&nbsp;:heavy_minus_sign:&nbsp; remotely & semi-presential**
+
 - ⚡ Fun fact **&nbsp;:heavy_minus_sign:&nbsp; I'm ready for the challenge!!**
 
 <h3 align="center">Connect with me</h3>
