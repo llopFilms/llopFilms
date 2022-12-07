@@ -13,9 +13,9 @@
 
 - :heavy_check_mark: Skills I higlight **&nbsp;:heavy_minus_sign:&nbsp; detail-oriented, reliable, hard & team-worker, keen to learn**
 
-- :point_up: Interested in work **&nbsp;:heavy_minus_sign:&nbsp; remotely & semi-presential**
+- :point_up: Interested in working **&nbsp;:heavy_minus_sign:&nbsp; remotely & semi-presential**
 
-- ⚡ Fun fact **&nbsp;:heavy_minus_sign:&nbsp; I'm ready for the challenge!!**
+- ⚡ Fun fact **&nbsp;:heavy_minus_sign:&nbsp; in the middle of a reskilling process, I'm ready for the challenge!!**
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
