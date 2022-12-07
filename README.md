@@ -34,11 +34,10 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 </p>
-
 <hr>
-<p align="center">
-<a href="https://github.com/llopFilms/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=llopFilms&show_icons=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide_border=false" alt="llopFilms' github stats" /></a></p>
-<br>
-<p align="center">
-<a href="https://github.com/llopFilms/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=llopFilms&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide_border=false" /></a>
-</p>
+<div align="center">
+
+| [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=llopFilms&show_icons=true&theme=github_dark)](https://github.com/llopFilms/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=llopFilms&&show_icons=true&theme=github_dark&layout=compact)](https://github.com/llopFilms/github-readme-stats) |
+| ------------- | ------------- |
+  
+</div>
