@@ -40,7 +40,7 @@
 </p>
 
 <hr>
-<p align="center">Feel free to dive into my practice, training & personal repositories. There is a deployed link in each of them</p>
+<p align="center">Feel free to dive into my practice, training & personal repositories. There is a deployment link in each of them</p>
 
 <div align="center">
 
