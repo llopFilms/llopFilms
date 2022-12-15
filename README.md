@@ -40,7 +40,7 @@
 </p>
 
 <hr>
-<p align="center">Feel free to dive into my practice, training & personal repositories. There is a deployment link in each README.md</p>
+<p align="center">Feel free to dive into my practice, learning & personal repositories. <br> You'll find deployment links in most part of the README.md files</p>
 
 <div align="center">
 
