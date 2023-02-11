@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **&nbsp;:heavy_minus_sign:&nbsp; React, Javascript, Typescript, Sass**
 
-- 👯 I’m looking to collaborate on **&nbsp;:heavy_minus_sign:&nbsp; React || Javascript projects && anything cool for a Junior**
+- 👯 I’m looking to collaborate on **&nbsp;:heavy_minus_sign:&nbsp; React || Javascript projects && anything that sounds cool to a Junior**
 
 - 📫 How to reach me **&nbsp;:heavy_minus_sign:&nbsp; smdalbars@gmail.com**
 
