@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=llopfilms&label=Profile%20views&color=0e75b6&style=flat" alt="llopfilms" /> </p>
 
-- 🌱 I’m currently learning **&nbsp;:heavy_minus_sign:&nbsp; React, Javascript, Typescript, Sass**
+- 🌱 I’m currently learning **&nbsp;:heavy_minus_sign:&nbsp; Angular, React, Javascript, Typescript, NodeJs**
 
-- 👯 I’m looking to collaborate on **&nbsp;:heavy_minus_sign:&nbsp; React || Javascript projects && anything that sounds cool to a Junior**
+- 👯 I’m looking to collaborate on **&nbsp;:heavy_minus_sign:&nbsp; Project Management && ReactJs | ReactTs | Js | TS projects && anything that sounds cool to a Junior**
 
 - 📫 How to reach me **&nbsp;:heavy_minus_sign:&nbsp; llopfilms@gmail.com**
 
@@ -15,7 +15,7 @@
 
 - :point_up: Interested in working **&nbsp;:heavy_minus_sign:&nbsp; remotely & semi-presential**
 
-- ⚡ Fun fact **&nbsp;:heavy_minus_sign:&nbsp; in the middle of a reskilling process, I'm ready for the challenge!!**
+- ⚡ Fun fact **&nbsp;:heavy_minus_sign:&nbsp; I'm ready for the challenge!!**
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
