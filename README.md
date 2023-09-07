@@ -5,17 +5,17 @@
 
 - 🌱 I’m currently learning **&nbsp;:heavy_minus_sign:&nbsp; Angular, React, Javascript, Typescript, NodeJs**
 
-- 👯 I’m looking to collaborate on **&nbsp;:heavy_minus_sign:&nbsp; Project Management && ReactJs | ReactTs | Js | TS projects && anything that sounds cool to a Junior**
+- 👯 I’m looking to collaborate on **&nbsp;:heavy_minus_sign:&nbsp; Project Management && ReactJs | ReactTs | Js | Ts projects && anything that sounds cool to a Junior**
 
 - 📫 How to reach me **&nbsp;:heavy_minus_sign:&nbsp; llopfilms@gmail.com**
 
-- 📄 Know about my experiences **&nbsp;:heavy_minus_sign:&nbsp; 22 years freelance background**
+- 📄 Know about my experiences **&nbsp;:heavy_minus_sign:&nbsp; 22 years of freelance background & softskills**
 
-- :heavy_check_mark: Skills I higlight **&nbsp;:heavy_minus_sign:&nbsp; detail-oriented, reliable, hard & team-worker, keen to learn**
+- :heavy_check_mark: Skills I higlight **&nbsp;:heavy_minus_sign:&nbsp; detail-oriented, reliable, hard team-worker, keen to learn**
 
 - :point_up: Interested in working **&nbsp;:heavy_minus_sign:&nbsp; remotely & semi-presential**
 
-- ⚡ Fun fact **&nbsp;:heavy_minus_sign:&nbsp; I'm ready for the challenge!!**
+- ⚡ Fun fact **&nbsp;:heavy_minus_sign:&nbsp; I always learn docs & do tutorials before trying. I'm ready for the challenge!!**
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
