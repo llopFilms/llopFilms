@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **&nbsp;:heavy_minus_sign:&nbsp; React || Javascript projects && anything that sounds cool to a Junior**
 
-- 📫 How to reach me **&nbsp;:heavy_minus_sign:&nbsp; smdalbars@gmail.com**
+- 📫 How to reach me **&nbsp;:heavy_minus_sign:&nbsp; llopfilms@gmail.com**
 
 - 📄 Know about my experiences **&nbsp;:heavy_minus_sign:&nbsp; 22 years freelance background**
 
