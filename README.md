@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=llopfilms&label=Profile%20views&color=0e75b6&style=flat" alt="llopfilms" /> </p>
 
-- 🌱 I’m currently learning **&nbsp;:heavy_minus_sign:&nbsp; Angular, React, Javascript, Typescript, NodeJs**
+- 🌱 I’m currently learning **&nbsp;:heavy_minus_sign:&nbsp; WordPress, React, Astro, Javascript, Typescript, NodeJs & Odoo**
 
-- 👯 I’m looking to collaborate on **&nbsp;:heavy_minus_sign:&nbsp; Project Management && ReactJs | ReactTs | Js | Ts projects && anything that sounds cool to a Junior**
+- 👯 I’m looking to collaborate on **&nbsp;:heavy_minus_sign:&nbsp; Project Management && WordPress | Astro | ReactTs | Js | Ts projects && anything that sounds cool to a Junior**
 
 - 📫 How to reach me **&nbsp;:heavy_minus_sign:&nbsp; llopfilms@gmail.com**
 
