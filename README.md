@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jordi Llop</h1>
 <h3 align="center">A Junior frontend developer from Barcelona</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=llopfilms&label=Visites llopfilms&color=0e75b6&style=flat" alt="llopfilms" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=llopfilms&label=Visites%20llopfilms&color=0e75b6&style=flat" alt="llopfilms" /> </p>
 
 - 🌱 I’m currently learning **&nbsp;:heavy_minus_sign:&nbsp; WordPress, React, Astro, Javascript, Typescript, NodeJs & Odoo**
 
