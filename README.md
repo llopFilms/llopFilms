@@ -3,19 +3,19 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=llopfilms&label=Visites%20llopfilms&color=0e75b6&style=flat" alt="llopfilms" /> </p>
 
-- 🌱 I’m currently learning **&nbsp;:heavy_minus_sign:&nbsp; WordPress, React, Astro, Javascript, Typescript, NodeJs & Odoo**
+- 🌱 I’m currently learning: **&nbsp; ➖ &nbsp; WordPress, React, Astro, Javascript, Typescript, NodeJs & Odoo**
 
-- 👯 I’m looking to collaborate on **&nbsp;:heavy_minus_sign:&nbsp; Project Management && WordPress | Astro | ReactTs | Js | Ts projects && anything that sounds cool to a Junior**
+- 👯 I’m looking to collaborate on **&nbsp; ➖ &nbsp; Project Management && WordPress | Astro | ReactTs | Js | Ts projects && anything that sounds cool to a Junior**
 
-- 📫 How to reach me **&nbsp;:heavy_minus_sign:&nbsp; llopfilms@gmail.com**
+- 📫 How to reach me **&nbsp; ➖ &nbsp; llopfilms@gmail.com**
 
-- 📄 Know about my experiences **&nbsp;:heavy_minus_sign:&nbsp; 22 years of freelance background & softskills**
+- 📄 Know about my experiences **&nbsp; ➖ &nbsp; 22 years of freelance background & softskills**
 
-- :heavy_check_mark: Skills I higlight **&nbsp;:heavy_minus_sign:&nbsp; detail-oriented, reliable, hard team-worker, keen to learn**
+- :heavy_check_mark: Skills I higlight **&nbsp; ➖ &nbsp; detail-oriented, reliable, hard team-worker, keen to learn**
 
-- :point_up: Interested in working **&nbsp;:heavy_minus_sign:&nbsp; remotely & semi-presential**
+- :point_up: Interested in working **&nbsp; ➖ &nbsp; remotely & semi-presential**
 
-- ⚡ Fun fact **&nbsp;:heavy_minus_sign:&nbsp; I always learn docs & do tutorials before trying. I'm ready for the challenge!!**
+- ⚡ Fun fact **&nbsp; ➖ &nbsp; I always learn docs & do tutorials before trying. I'm ready for the challenge!!**
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
