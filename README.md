@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, sóc en Jordi Llop</h1>
-<h3 align="center">Un desenvolupador frontend Junior de Barcelona</h3>
+<h3 align="center">Un desenvolupador frontend mid-júnior i gestor de projectes de Barcelona</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=llopfilms&label=Visites%20llopfilms&color=0e75b6&style=flat" alt="llopfilms" /> </p>
 
