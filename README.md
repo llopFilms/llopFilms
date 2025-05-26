@@ -1,47 +1,56 @@
-<h1 align="center">Hi 👋, I'm Jordi Llop</h1>
-<h3 align="center">A Junior frontend developer from Barcelona</h3>
+<h1 align="center">Hola 👋, sóc en Jordi Llop</h1>
+<h3 align="center">Un desenvolupador frontend Junior de Barcelona</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=llopfilms&label=Visites%20llopfilms&color=0e75b6&style=flat" alt="llopfilms" /> </p>
 
-- 🌱 I’m currently learning: **&nbsp; ➖ &nbsp; WordPress, React, Astro, Javascript, Typescript, NodeJs & Odoo**
+- 🌱 Actualment contnuo aprenent: **&nbsp; ➖ &nbsp; WordPress, React, Astro, Javascript i Typescript**
 
-- 👯 I’m looking to collaborate on **&nbsp; ➖ &nbsp; Project Management && WordPress | Astro | ReactTs | Js | Ts projects && anything that sounds cool to a Junior**
+- 👯 M'agradaria col·laborar en: **&nbsp; ➖ &nbsp; Gestió de Projectes && projectes de WordPress | Astro | ReactTs | Js | Ts && qualsevol cosa que sembli interessant per a un mid-júnior**
 
-- 📫 How to reach me **&nbsp; ➖ &nbsp; llopfilms@gmail.com**
+- 📫 Com contactar-me: **&nbsp; ➖ &nbsp; llopfilms@gmail.com**
 
-- 📄 Know about my experiences **&nbsp; ➖ &nbsp; 22 years of freelance background & softskills**
+- 📄 Coneix les meves experiències: **&nbsp; ➖ &nbsp; 22 anys d'experiència freelance i softskills**
 
-- :heavy_check_mark: Skills I higlight **&nbsp; ➖ &nbsp; detail-oriented, reliable, hard team-worker, keen to learn**
+- :heavy_check_mark: Habilitats que destaco: **&nbsp; ➖ &nbsp; orientat/da al detall, fiable, treballador/a en equip, amb ganes d'aprendre**
 
-- :point_up: Interested in working **&nbsp; ➖ &nbsp; remotely & semi-presential**
+- :point_up: Interessat/da en treballar: **&nbsp; ➖ &nbsp; remotament i semi-presencial**
 
-- ⚡ Fun fact **&nbsp; ➖ &nbsp; I always learn docs & do tutorials before trying. I'm ready for the challenge!!**
+- ⚡ Dada curiosa: **&nbsp; ➖ &nbsp; Sempre aprenc la documentació i faig tutorials abans d'intentar-ho. Estic preparat/da per al repte!!**
 
-<h3 align="center">Connect with me</h3>
+<h3 align="center">Connecta amb mi</h3>
 <p align="center">
 <a href="https://linkedin.com/in/jordidellop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jordidellop" height="30" width="40" /></a>
 </p>
 
+---
 
-<h3 align="center">Languages and Tools</h3>
+### Explora les meves organitzacions de GitHub:
+
+* Accedeix al meu **[Espai WordPress](https://github.com/Espai-Wordpress)**
+* Accedeix al meu **[Espai React](https://github.com/Espai-React)**
+* Accedeix al meu **[Espai Astro](https://github.com/Espai-Astro)**
+
+---
+
+<h3 align="center">Llenguatges i Eines</h3>
 
 <p align="center">
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /> </a>&nbsp;
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<img alt="Visual Studio Code" src="https://img.icons8.com/fluent/36/000000/visual-studio-code-2019.png"/>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/withastro/astro/main/assets/astro-logo-cutout-light.png" alt="astro" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+<img src="https://img.icons8.com/fluent/36/000000/visual-studio-code-2019.png"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 </p>
 
 <hr>
-<p align="center">Feel free to dive into my practice, learning & personal repositories. <br> You'll find deployment links in most part of the README.md files</p>
+<p align="center">No dubtis a endinsar-te en els meus repositoris de pràctica, aprenentatge i personals. <br> Trobaràs enllaços de desplegament a la majoria dels fitxers README.md</p>
 
 <div align="center">
 
